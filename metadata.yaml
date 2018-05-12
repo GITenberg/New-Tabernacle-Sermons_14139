@@ -1,0 +1,32 @@
+_repo: New-Tabernacle-Sermons_14139
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Talmage, T. De Witt (Thomas De Witt)
+    aliases:
+    - Talmage, Thomas De Witt
+    - Talmage, T. DeWitt (Thomas De Witt)
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '5618'
+    url: http://www.gutenberg.org/2009/agents/5618
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_De_Witt_Talmage
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Presbyterian Church -- Sermons'
+- !lcsh 'Sermons, American'
+title: New Tabernacle Sermons
+url: http://www.gutenberg.org/ebooks/14139
